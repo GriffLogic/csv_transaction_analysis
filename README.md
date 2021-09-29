@@ -8,7 +8,8 @@
   <li>Sort transactions into categories using keywords.</li>
   <li>Add total savings transfers.</li>
   <li>Add total deposits</li>
+</ul>
 
 <p>
   This is one of several low priority projects that will be utilized when convenient for study and practice.
-  </p>
+</p>
